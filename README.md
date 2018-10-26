@@ -1,2 +1,3 @@
 # STM32F407ZGT6
 EXPERIMENT
+This is a repository for me to record the DIY-process of STM32F407ZGT6(M4).FOR THE NEXT PERIOD,I WILL DO SOME CODING AT HERE.
